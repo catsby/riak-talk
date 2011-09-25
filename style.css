@@ -1,0 +1,144 @@
+/* @override http://localhost:9090/file/style.css */
+
+html {
+	background: transparent;
+}
+
+body {
+  font-size: 100%;
+  background:#333;
+  overflow:hidden;
+  margin:0;
+  padding:0;
+}
+
+ul {
+	list-style: disc;
+	padding-left: 80px;
+	list-style-type: disc;
+	list-style-position: outside;
+	margin-top: 20px;
+}
+
+ul li {
+	text-align: left !important;
+	padding: 20px !important;
+	list-style-type: disc;
+}
+
+ul li ul {
+	font-size: inherit !important;
+	list-style-type: circle;
+}
+
+.images img {
+	vertical-align: top;
+}
+
+.content h1 {
+	padding: 10px;
+	font-size: 4em;
+	line-height: normal;
+}
+
+.content h2, 
+.content h3 {
+	font-size: 3em;
+	font-weight: bold;
+  	padding-left: 20px;
+}
+
+.content h3 {
+	font-size: 1.5em;
+}
+
+.mini-browser-1.content::after {
+      position: absolute;
+      right: 10px;
+      bottom: 220px;
+      content: url('basics/imagebrowser_02_thumb.jpg');
+}
+.mini-browser.content::after {
+      position: absolute;
+      right: 10px;
+      bottom: 275px;
+      content: url('basics/imagebrowser_02_thumb.jpg');
+}
+
+.mini-browser.content ul li {
+	width: 575px;
+}
+
+pre {
+	text-align: left;
+}
+
+.ship-it.content::after {
+      position: absolute;
+      right: 350px;
+      top: 250px;
+      content: url('https://github.com/ctshryock/cvs-to-git/raw/master/images/git-logo.png');
+}
+
+.ship-it h1 {
+	position: absolute;
+	top: 10px;
+	width: 100%;
+}
+
+.ship-it h2 {
+	background: #fff;
+	color: #333;
+	text-align: left;
+	font-size: 2em;
+	margin: 0;
+	padding: 0;
+	padding-left: 150px;
+}
+
+.ship-it h3 {
+	margin-top: 45px;
+}
+
+.ship-it p {
+	padding-left: 15px;
+	text-align: left;
+	font-size: larger;
+}
+
+.ship-it ul {
+  margin-left:100px;
+}
+
+blockquote {
+	float: left;
+	width: 100%;
+	font-size: 2em;
+	direction: ltr;
+	text-align: left;
+	line-height: 1.2em;
+	font-style: italic;
+}
+
+blockquote p {
+	width: 50%;
+	margin: 0 auto;
+}
+
+.home p {
+	font-size: 2em;
+	text-align: right;
+	margin-top: 100px;
+	padding-right: 13px;
+	line-height: 1em;
+}
+
+strong {
+  font-weight: bold;
+}
+
+.integration-manager  {
+	margin: 0 !important;
+	height: 500px;
+	background: url(https://github.com/ctshryock/cvs-to-git/raw/master/images/integration.png) 275px 200px no-repeat;
+}
