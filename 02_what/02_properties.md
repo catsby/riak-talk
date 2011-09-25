@@ -1,7 +1,4 @@
-!SLIDE title
-# What Riak Is #
-
-!SLIDE bullets incremental
+!SLIDE bullets 
 
 ## What Riak Is
 
@@ -10,13 +7,3 @@
 - Distributed (no master node)
 - **AP** of C**AP** Theorem
 - Automagically replicating/redistributing (no sharding)
-
-!SLIDE
-
-## What Riak Is
-
-*"The #Honeybadger of NoSQL's"*
-
-_- Me, the other day_
-
-TODO: grab image
