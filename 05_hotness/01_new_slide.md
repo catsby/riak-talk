@@ -1,3 +1,0 @@
-!SLIDE 
-# Title here #
-

@@ -6,8 +6,8 @@
 Clint Shryock  
 @ctshryock
 
-!SLIDE bullets incremental
-# Bullet Points #
+!SLIDE 
+## Basho 
 
 * first point
 * second point
