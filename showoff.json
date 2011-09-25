@@ -1,1 +1,8 @@
-{ "name": "Riak", "sections": [ {"section":"intro"} ]}
+{"name":"Riak","sections":[
+  {"section":"01_intro"},
+  {"section":"02_what"},
+  {"section":"03_how"},
+  {"section":"04_using"},
+  {"section":"05_hotness"},
+  {"section":"end"}
+]}

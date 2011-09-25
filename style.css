@@ -75,9 +75,9 @@ pre {
 
 .ship-it.content::after {
       position: absolute;
-      right: 350px;
-      top: 250px;
-      content: url('https://github.com/ctshryock/cvs-to-git/raw/master/images/git-logo.png');
+      right: 100px;
+      top: 150px;
+      content: url('end/zoidberg.jpg')
 }
 
 .ship-it h1 {
