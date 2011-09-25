@@ -3,6 +3,36 @@
 # Viewing the slideshow
 This is a [ShowOff][3] presentation about [Riak][7] for [CoMO Rich Web's NoSQL Smackdown][8].
 
+
+**TOC**
+
+1. Intro. 
+
+  - Basho
+
+2. What Riak is
+
+  - Distributed data store, et. al.
+  - CAP Theorem
+
+3. How Riak works
+
+  - Buckets/Keys (example output of bucket/key)
+  - Links/Metadata
+  - Nodes, Vnodes, and Partitions
+  - Distribution
+
+4. Using Riak 
+
+  - API: Reading, writing, and MapReduce
+  - curl ex. (ripple ex.)
+
+5. New Hotness
+  
+  - Secondary Indexes
+  - Search
+  - Pipe
+
 You can view the presentation here: [http://ctshryock.github.com/riak-talk][6]
 
 If you want to view it locally, you need to install Showoff, clone the repo, and then run `serve`:
