@@ -8,5 +8,15 @@
 - Key/Value data store
 - Like Amazon's Dynamo
 - Distributed (no master node)
-- Automagically replicating
-- The #Honeybadger of NoSQL's
+- **AP** of C**AP** Theorem
+- Automagically replicating/redistributing (no sharding)
+
+!SLIDE
+
+## What Riak Is
+
+*"The #Honeybadger of NoSQL's"*
+
+_- Me, the other day_
+
+TODO: grab image
