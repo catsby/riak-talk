@@ -1,9 +1,5 @@
-!SLIDE
+!SLIDE center
 
-## What Riak Is
+## Riak is the Honey Badger of NoSQL's
 
-*"The #Honeybadger of NoSQL's"*
-
-_- Me, the other day_
-
-TODO: grab image
+![honey badger](honeybadger.png)
