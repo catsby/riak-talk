@@ -9,6 +9,5 @@ Clint Shryock
 !SLIDE 
 ## Basho 
 
-* first point
-* second point
-* third point
+* Founded in January 2008
+* Former Akamai Technologies members
