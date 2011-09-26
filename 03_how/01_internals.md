@@ -1,3 +1,0 @@
-!SLIDE 
-# How Riak Works #
-
