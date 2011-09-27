@@ -5,7 +5,7 @@
 * Cluster, The Ring, Nodes, Vnodes and Partitions
 * **N**, **R**, **W** values
 
-!SLIDE
+!SLIDE smbullets
 ### How Riak Works
 ## Clusters
 
@@ -49,3 +49,5 @@
 
 - **N** - **R** = Max number of down nodes for **Read**
 - **N** - **W** = Max number of down nodes for **Write**
+- **Eventually Consistent**  
+  - **partitions/vnodes** are shuffled around to accomidate
