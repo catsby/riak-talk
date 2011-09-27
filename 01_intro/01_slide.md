@@ -1,12 +1,13 @@
 !SLIDE home
 # Riak #
 
-### _"REE-ack"_
+## _"REE-ack"_
 
 Clint Shryock  
 @ctshryock
 
 !SLIDE 
+### Riak
 ## Basho 
 
 * Founded in January 2008
