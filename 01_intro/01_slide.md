@@ -1,5 +1,6 @@
-!SLIDE home
-# Riak #
+!SLIDE home center
+
+![riak](riak.png)
 
 ## _"REE-ack"_
 
