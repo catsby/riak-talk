@@ -1,6 +1,7 @@
 !SLIDE bullets 
+### What Riak Is 
 
-## What Riak Is
+## Design
 
 - Key/Value data store
 - Like Amazon's Dynamo
@@ -11,5 +12,6 @@
 - Written (primarily) in Erlang
 
 !SLIDE
+### What Riak Is 
 
 ## _and..._
