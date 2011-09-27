@@ -1,17 +1,13 @@
-!SLIDE smbullets ship-it 
+!SLIDE end
 # End #
 
-## Clint Shryock 
-<br />
-## Twitter:
-## @ctshryock
-<br />
-## Email:
-## clint@ctshryock.com
+Clint Shryock  
+@ctshryock  
+clint@ctshryock.com  
 
-<br /><br />
+![zoidberg](zoidberg.jpg)
 
-## Learn more
+**Learn more**
 
 - [Riak wiki][1]
 
