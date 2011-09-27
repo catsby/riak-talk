@@ -1,7 +1,7 @@
 !SLIDE title
 # How Riak Works #
 
-!SLIDE bullets
+!SLIDE smbullets
 ### How Riak Works
 ## Basics
 
