@@ -25,8 +25,8 @@ This is a [ShowOff][3] presentation about [Riak][7] for [CoMO Rich Web's NoSQL S
 4. Using Riak 
 
   - API: Reading, writing, and MapReduce
-  - curl ex. (ripple ex.)
-
+  - curl ex.
+  
 5. New Hotness
   
   - Secondary Indexes

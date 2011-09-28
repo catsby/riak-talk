@@ -148,3 +148,9 @@ strong {
 .content.small-ring ul li {
   line-height:24px;
 }
+
+.content pre, code {
+	margin-top: 20px;
+	font-size: 12px;
+	line-height: 18px;
+}
