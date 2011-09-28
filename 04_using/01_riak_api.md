@@ -27,10 +27,4 @@
 
 - 404 Not Found
 
-!SLIDE commandline smaller
-### Using Riak
 
-<pre>
-$ curl -v -d 'this is a test' -H "Content-Type: text/plain" \
-    http://127.0.0.1:8091/riak/test
-</pre>
