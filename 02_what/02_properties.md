@@ -1,12 +1,12 @@
 !SLIDE bullets 
 ### What Riak Is 
 
-## Design
+## Specs
 
 - Key/Value data store
 - Like Amazon's Dynamo
 - Distributed (no master node)
-- **AP** of C**AP** Theorem
+- **AP** of Dr. Eric Brewer's C**AP** Theorem
 - Automagically replicating/redistributing (no sharding)
 - Schemaless and data-type agnostic
 - Written (primarily) in Erlang

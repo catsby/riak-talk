@@ -1,4 +1,4 @@
-!SLIDE smbullets
+!SLIDE bullets
 ### New Hotness
 ## Secondary Indexes
 
@@ -24,5 +24,5 @@
     curl localhost:8091/buckets/users/index/twitter_bin/ctshryock
 
 **Response...**
-    {"keys":["rustyk"]}
+    {"keys":["ctshryock"]}
 
